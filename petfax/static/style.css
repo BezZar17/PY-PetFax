@@ -1,0 +1,12 @@
+h1 {
+    color: darkslategray;
+    font-family: "Bowlby One"; font-size: 50px ; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px
+}
+
+body {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+h2 { font-family: "Bowlby One"; font-size: 35px ; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; color: aliceblue;} 
+
